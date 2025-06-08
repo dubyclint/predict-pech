@@ -1,7 +1,5 @@
-telebot
-python-dotenv
+pyTelegramBotAPI==4.16.1
 scikit-learn
 pandas
 numpy
 requests
-pyTelegramBotAPI
