@@ -1,0 +1,6 @@
+telebot
+python-dotenv
+scikit-learn
+pandas
+numpy
+requests
